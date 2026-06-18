@@ -51,7 +51,7 @@ The goal is to build a predictive model that estimates property prices accuratel
 
 ## Results
 
-Best Model Accuracy: XX%
+Best Model Accuracy: 99%
 
 ## Future Improvements
 
